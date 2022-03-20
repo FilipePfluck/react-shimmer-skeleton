@@ -61,3 +61,5 @@ return(
   </Skeleton>
 )
 ```
+
+![GIF example](https://github.com/FilipePfluck/react-shimmer-skeleton/blob/main/skeleton3.gif)
