@@ -1,6 +1,6 @@
 {
   "name": "react-shimmer-skeleton",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react library for generating custom skeleton loading components automatically",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
